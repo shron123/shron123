@@ -1,4 +1,4 @@
-# 尹志强 | Zhiqiang Yin
+# shron123
 
 **Robot Learning · Motion Control · Unsupervised Reinforcement Learning**
 
@@ -6,7 +6,7 @@ RoboParty / RPLab / Motion Control
 
 ## About Me
 
-我是尹志强，在 RoboParty RPLab 从事机器人运动控制相关工作，
+我是 Shron，在 RoboParty RPLab 从事机器人运动控制相关工作，
 参与 UFO 无监督强化学习算法优化。
 关注机器人学习与运动控制的结合，探索无监督强化学习在机器人控制中的应用。
 

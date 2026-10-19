@@ -32,10 +32,6 @@ optimization for UFO.
 - **Contribution:** Unsupervised reinforcement learning algorithm optimization.
 - **Domain:** Robot learning and motion control.
 
-## Organization
-
-[RoboParty on GitHub](https://github.com/RoboParty)
-
 ## Contact
 
 - **GitHub:** [@shron123](https://github.com/shron123)
